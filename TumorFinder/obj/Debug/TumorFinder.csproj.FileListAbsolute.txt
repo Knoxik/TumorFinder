@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\TumorFinder\TumorFinder\bin\Debug\TumorFinder.exe.config
+C:\Users\User\Desktop\TumorFinder\TumorFinder\bin\Debug\TumorFinder.exe
+C:\Users\User\Desktop\TumorFinder\TumorFinder\bin\Debug\TumorFinder.pdb
+C:\Users\User\Desktop\TumorFinder\TumorFinder\obj\Debug\TumorFinder.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TumorFinder\TumorFinder\obj\Debug\TumorFinder.Properties.Resources.resources
+C:\Users\User\Desktop\TumorFinder\TumorFinder\obj\Debug\TumorFinder.TFForm.resources
+C:\Users\User\Desktop\TumorFinder\TumorFinder\obj\Debug\TumorFinder.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TumorFinder\TumorFinder\obj\Debug\TumorFinder.exe
+C:\Users\User\Desktop\TumorFinder\TumorFinder\obj\Debug\TumorFinder.pdb
+C:\Учеба\- КУРСОВАЯ\TumorFinder\TumorFinder\bin\Debug\TumorFinder.exe.config
+C:\Учеба\- КУРСОВАЯ\TumorFinder\TumorFinder\obj\Debug\TumorFinder.exe
+C:\Учеба\- КУРСОВАЯ\TumorFinder\TumorFinder\obj\Debug\TumorFinder.pdb
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\bin\Debug\TumorFinder.exe.config
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\bin\Debug\TumorFinder.exe
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\bin\Debug\TumorFinder.pdb
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\obj\Debug\TumorFinder.csprojAssemblyReference.cache
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\obj\Debug\TumorFinder.Properties.Resources.resources
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\obj\Debug\TumorFinder.TFForm.resources
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\obj\Debug\TumorFinder.csproj.GenerateResource.cache
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\obj\Debug\TumorFinder.csproj.CoreCompileInputs.cache
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\obj\Debug\TumorFinder.exe
+E:\Downloads\TumorFinder-20180920T100751Z-001\TumorFinder\TumorFinder\obj\Debug\TumorFinder.pdb
